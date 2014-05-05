@@ -1,0 +1,12 @@
+{
+  "name": "book-tools",
+  "version": "0.1.0",
+  "description": "ex",
+  "author": "Masayuki Ono <mono0926@gmail.com> (http://mono0926.com)",
+  "dependencies": {
+    "async": "^0.8.0",
+    "cheerio": "^0.15.0",
+    "file": "^0.2.2",
+    "request": "^2.34.0"
+  }
+}

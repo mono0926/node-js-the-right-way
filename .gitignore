@@ -1,0 +1,8 @@
+web-app/b4/bower_components
+work/databases/cache
+web-app/b4/node_modules
+web-app/hello/node_modules
+web-services/b4/node_modules
+web-services/hello/node_modules
+work/databases/node_modules
+work/messaging/node_modules
